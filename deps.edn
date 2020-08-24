@@ -1,0 +1,2 @@
+{:aliases
+ {:socket {:jvm-opts ["-Dclojure.server.repl={:port,50123,:accept,socket.rebl/repl}"]}}}
